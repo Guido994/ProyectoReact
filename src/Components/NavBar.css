@@ -1,5 +1,25 @@
 .NavBar{
     display: flex;
-    justify-content: space-around;
     align-items: center;
+    justify-content: space-between;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.títulos{
+    font-size: 40px;
+    color: darkblue;
+}
+
+button{
+    font-size: 25px;
+}
+
+.divLogo{
+}
+
+.imgLogo{
+    height: 110px;
+    width: auto;
 }
