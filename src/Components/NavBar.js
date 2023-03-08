@@ -5,7 +5,6 @@ const NavBar = () => {
         <nav className= "NavBar" >
             <div className='divLogo'>
                 <img src="../Multi/Cormay.png" alt="" className= "imgLogo"/>
-                <h1 className= "títulos" >Refrigeración Cormay</h1>
             </div>
             
             <div>
